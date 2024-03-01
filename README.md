@@ -236,4 +236,25 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Machines: 6
   - Duration: 63 hours
   - Collection Methodology: Real-world
+    
+- **Scout  2018 | Yes | [Paper](https://dl.acm.org/doi/abs/10.14778/3407790.3407845) | [Dataset](https://github.com/oxhead/scout)**
+  - Publisher: Hsu Chin-Jung
+  - Size: 587MB
+  - Machines: -
+  - Duration: 1 day
+  - Collection Methodology: Real-world
+        
+- **Chameleon Cloud traces  2017 | Yes | [Paper](https://www.researchgate.net/profile/Zhuangwei-Kang/publication/356981403_Chameleon_and_HTC_a_Match_Made_in_Heaven/links/6207d9eb634ff774f4c6c19d/Chameleon-and-HTC-a-Match-Made-in-Heaven.pdf) | [Dataset](https://www.scienceclouds.org/cloud-traces)**
+  - Publisher: Science Clouds
+  - Size: 1.5GB
+  - Machines: -
+  - Duration: 5 years
+  - Collection Methodology: Real-world
+        
+- **IBM Docker Registry traces  2018 | Yes | [Paper](https://www.usenix.org/conference/fast18/presentation/anwar) | [Dataset](https://dssl.cs.vt.edu/drtp/)**
+  - Publisher: Ali Anwar
+  - Size: 1.5GB
+  - Machines: -
+  - Duration: 75 day
+  - Collection Methodology: Real-world
 ## Web Traces
