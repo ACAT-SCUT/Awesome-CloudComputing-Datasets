@@ -97,11 +97,39 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Duration: 1 month
   - Collection Methodology: Real-world
    
-- **Autoscale Analyser  2015 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/6005383) | [Dataset](https://github.com/hsbhathiya/AutoscaleAnalyser/tree/master/datasets/cloud_traces)**
+- **Autoscale Analyser  2015 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/7820029/) | [Dataset](https://github.com/hsbhathiya/AutoscaleAnalyser/tree/master/datasets/cloud_traces)**
   - Publisher: H.S. Bhathiya
   - Size: 1.086MB
   - Machines: 2
   - Duration: 47 hours
+  - Collection Methodology: Real-world
+       
+- **Yahoo Webscope Dataset  2010 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/7904276) | [Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&guccounter=1)**
+  - Publisher: Yahoo
+  - Size: 33KB
+  - Machines: -
+  - Duration: -
+  - Collection Methodology: Real-world
+           
+- **Stadia Cloud Gaming Dataset  2020 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S0140366422000810) | [Dataset](https://github.com/wn-upf/Stadia_cloud_gaming_dataset_2020)**
+  - Publisher: Marc Carrascosa
+  - Size: 153MB
+  - Machines: -
+  - Duration: 5 months
+  - Collection Methodology: Real-world
+               
+- **Intel Netbatch logs  2012 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1568494619307215) | [Dataset](https://www.cs.huji.ac.il/labs/parallel/workload/l_intel_netbatch/index.html)**
+  - Publisher: Ohad Shai
+  - Size: 2.53GB
+  - Machines: -
+  - Duration: 1 month
+  - Collection Methodology: Real-world
+                   
+- **SPEC CPU  2006, 2017 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/6809346) | [Dataset](https://www.spec.org/cpu2017/)**
+  - Publisher: SPEC
+  - Size: -
+  - Machines: -
+  - Duration: 1 year
   - Collection Methodology: Real-world
 ## VM Cluster Traces
 
