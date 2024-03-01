@@ -195,10 +195,31 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Duration: 30 days, 30 days
   - Collection Methodology: Real-world
 
-- **Business Critical Workloads  2015 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3528416.3530867) | [Dataset](http://gwa.ewi.tudelft.nl/datasets/Bitbrains)**
+- **Business Critical Workloads  2015 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S131915782100094X) | [Dataset](http://gwa.ewi.tudelft.nl/datasets/Bitbrains)**
   - Publisher: Delft University of Technology
   - Size: 284MB
   - Machines: 1250
   - Duration: 1 month
+  - Collection Methodology: Real-world
+    
+- **Planetlab VM traces  2011 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/8301555) | [Dataset](https://github.com/beloglazov/planetlab-workload-traces)**
+  - Publisher: Beloglazov Anton
+  - Size: 5.2MB
+  - Machines: -
+  - Duration: 10 days
+  - Collection Methodology: Real-world
+    
+- **CERIT-SC Workloads  2016 | Yes | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-77398-8_2) | [Dataset](https://jsspp.org/workload/index.php)**
+  - Publisher: Dalibor Klusacek
+  - Size: 11MB
+  - Machines: -
+  - Duration: 1 year
+  - Collection Methodology: Real-world
+        
+- **Parallel Workloads Archive  2005 | Yes | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-77398-8_2) | [Dataset](https://www.cs.huji.ac.il/labs/parallel/workload/logs.html)**
+  - Publisher: DG Feitelson
+  - Size: -
+  - Machines: -
+  - Duration: -
   - Collection Methodology: Real-world
 ## Web Traces
