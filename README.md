@@ -68,6 +68,20 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Machines: 40000
   - Duration: 13 days
   - Collection Methodology: Real-world
+
+- **OpenCloud Hadoop Workload  2010 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3409772) | [Dataset](https://ftp.pdl.cmu.edu/pub/datasets/hla/dataset.html)**
+  - Publisher: Parallel Data Lab
+  - Size: -
+  - Machines: 64
+  - Duration: 20 months
+  - Collection Methodology: Real-world
+ 
+- **ATLAS Cluster Traces  2011, 2018, 2016 | Yes | [Paper](https://www.usenix.org/system/files/login/articles/login_winter18_07_amvrosiadis.pdf) | [Dataset](https://ftp.pdl.cmu.edu/pub/datasets/ATLAS/)**
+  - Publisher: Carnegie Mellon University
+  - Size: 16.7MB
+  - Machines: 1600
+  - Duration: 5 years
+  - Collection Methodology: Real-world
 ## VM Cluster Traces
 
 ## Web Traces
