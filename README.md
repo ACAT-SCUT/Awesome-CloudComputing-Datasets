@@ -292,8 +292,8 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Machines: -
   - Duration: -
   - Collection Methodology: Real-world
-  
- - **TPC-E  2007 | Yes | [Paper](https://ieeexplore.ieee.org/document/6217507) | [Dataset](https://www.tpc.org/tpce/results/tpce_result_detail5.asp?id=124020901)**
+    
+- **TPC-E  2007 | Yes | [Paper](https://ieeexplore.ieee.org/document/6217507) | [Dataset](https://www.tpc.org/tpce/results/tpce_result_detail5.asp?id=124020901)**
   - Publisher: TPC
   - Size: 56.9MB
   - Machines: -
