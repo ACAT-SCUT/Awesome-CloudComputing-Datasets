@@ -173,6 +173,20 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Machines: 10
   - Duration: -
   - Collection Methodology: Real-world
+            
+- **SURFsara  2019 | Yes | [Paper](https://arxiv.org/abs/2107.11832) | [Dataset](https://github.com/sara-nl/SURFace)**
+  - Publisher: SURFsara
+  - Size: 41.3GB
+  - Machines: 5
+  - Duration: 8 months
+  - Collection Methodology: Real-world
+                
+- **Marconi100  2020 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3528416.3530867) | [Dataset](https://zenodo.org/search?q=Datacenter&l=list&p=1&s=10&sort=bestmatch)**
+  - Publisher: Italian National Supercomputing Center
+  - Size: 33.4GB
+  - Machines: 960
+  - Duration: 9 months
+  - Collection Methodology: Real-world
 ## VM Cluster Traces
 
 ## Web Traces
