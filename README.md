@@ -125,21 +125,21 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Duration: 1 month
   - Collection Methodology: Real-world
                    
-- **SPEC CPU  2006, 2017 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/6809346) | [Dataset](https://www.spec.org/cpu2017/)**
+- **SPEC CPU  2006, 2017 | No | [Paper](https://ieeexplore.ieee.org/abstract/document/6809346) | [Dataset](https://www.spec.org/cpu2017/)**
   - Publisher: SPEC
   - Size: -
   - Machines: -
   - Duration: 1 year
   - Collection Methodology: Real-world
                        
-- **SPEC Cloud Iaas  2018 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/8758926) | [Dataset](https://www.spec.org/cloud_iaas2018/)**
+- **SPEC Cloud Iaas  2018 | No | [Paper](https://ieeexplore.ieee.org/abstract/document/8758926) | [Dataset](https://www.spec.org/cloud_iaas2018/)**
   - Publisher: SPEC
   - Size: -
   - Machines: -
   - Duration: 1 year
   - Collection Methodology: Real-world
                            
-- **SPEC power_ssj2008  2008 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S0167739X16306872) | [Dataset](https://www.spec.org/power_ssj2008/results/)**
+- **SPEC power_ssj2008  2008 | No | [Paper](https://www.sciencedirect.com/science/article/pii/S0167739X16306872) | [Dataset](https://www.spec.org/power_ssj2008/results/)**
   - Publisher: SPEC
   - Size: -
   - Machines: -
@@ -188,5 +188,17 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Duration: 9 months
   - Collection Methodology: Real-world
 ## VM Cluster Traces
+- **Azure Public Dataset  2017, 2019 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3477132.3483590) | [Dataset](https://github.com/Azure/AzurePublicDataset/tree/master)**
+  - Publisher: Microsoft
+  - Size: 117GB, 235GB
+  - Machines: 2 million, 2.6 million
+  - Duration: 30 days, 30 days
+  - Collection Methodology: Real-world
 
+- **Business Critical Workloads  2015 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3528416.3530867) | [Dataset](http://gwa.ewi.tudelft.nl/datasets/Bitbrains)**
+  - Publisher: Delft University of Technology
+  - Size: 284MB
+  - Machines: 1250
+  - Duration: 1 month
+  - Collection Methodology: Real-world
 ## Web Traces
