@@ -27,7 +27,7 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Duration: 29 days
   - Collection Methodology: Real-world
 
-  - **Google Cluster Data V3  2019 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1877050920309820) | [Dataset](https://github.com/google/cluster-data/blob/master/ClusterData2019.md)**
+- **Google Cluster Data V3  2019 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1877050920309820) | [Dataset](https://github.com/google/cluster-data/blob/master/ClusterData2019.md)**
   - Publisher: Google
   - Size: 2.4TB
   - Machines: 96000
