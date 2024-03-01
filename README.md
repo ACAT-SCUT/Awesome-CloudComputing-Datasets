@@ -47,6 +47,13 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Machines: 4000
   - Duration: 8 days
   - Collection Methodology: Real-world
+
+- **Alibaba GPU Traces  2020 | Yes | [Paper](https://www.usenix.org/conference/nsdi22/presentation/weng) | [Dataset](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2020)**
+  - Publisher: Alibaba
+  - Size: 1.36GB
+  - Machines: 1800
+  - Duration: 2 months
+  - Collection Methodology: Real-world
 ## VM Cluster Traces
 
 ## Web Traces
