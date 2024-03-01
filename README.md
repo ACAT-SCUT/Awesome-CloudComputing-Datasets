@@ -1,5 +1,5 @@
 # Awesome-CloudComputing-Datasets
-The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](https://github.com/Lslland/Awesome-CloudComputing-Datasets)** has been released.（2024/3）
+This resource is about paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](https://github.com/Lslland/Awesome-CloudComputing-Datasets)**
 
 **Dataset information format：**
 
