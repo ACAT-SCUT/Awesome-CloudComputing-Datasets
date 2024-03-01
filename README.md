@@ -266,15 +266,43 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Collection Methodology: Real-world
 
 - **NASA HTTP Traces  1995 | Yes | [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/dac.5634) | [Dataset](https://www.kaggle.com/datasets/adchatakora/nasa-http-access-logs/download?datasetVersionNumber=1)**
-  - Publisher: Wikipedia
+  - Publisher: Kennedy Space Center
   - Size: 20.7MB
   - Machines: -
   - Duration: 1 month
   - Collection Methodology: Real-world
   
-- **TPC-H  1992 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3514221.3526055) | [Dataset](https://www.tpc.org/default5.asp)**
-  - Publisher: Wikipedia
-  - Size: 20.7MB
+- **TPC-H  1992 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3514221.3526055) | [Dataset](https://www.tpc.org/tpch/results/tpch_result_detail5.asp?id=124021201)**
+  - Publisher: TPC
+  - Size: 58.3MB
   - Machines: -
-  - Duration: 1 month
+  - Duration: -
+  - Collection Methodology: Real-world
+    
+- **TPC-W  1999 | No | [Paper](https://ieeexplore.ieee.org/abstract/document/7140351) | [Dataset](https://www.tpc.org/default5.asp)**
+  - Publisher: TPC
+  - Size: 153MB
+  - Machines: -
+  - Duration: -
+  - Collection Methodology: Real-world
+    
+ - **TPC-C  1992 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3514221.3526055) | [Dataset](https://www.tpc.org/tpcc/results/tpcc_result_detail5.asp?id=123092901)**
+  - Publisher: TPC
+  - Size: 153MB
+  - Machines: -
+  - Duration: -
+  - Collection Methodology: Real-world
+        
+ - **TPC-E  2007 | Yes | [Paper](https://ieeexplore.ieee.org/document/6217507) | [Dataset](https://www.tpc.org/tpce/results/tpce_result_detail5.asp?id=124020901)**
+  - Publisher: TPC
+  - Size: 56.9MB
+  - Machines: -
+  - Duration: -
+  - Collection Methodology: Real-world
+            
+ - **TPC-DS  2000 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3297663.3309676) | [Dataset](https://www.tpc.org/tpcds/default5.asp)**
+  - Publisher: TPC
+  - Size: 4.5MB
+  - Machines: -
+  - Duration: -
   - Collection Methodology: Real-world
