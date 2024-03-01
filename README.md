@@ -306,3 +306,31 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Machines: -
   - Duration: -
   - Collection Methodology: Real-world
+
+- **Cloud Intrusion Detection Dataset  2012 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3297663.3309676) | [Dataset](http://groups.di.unipi.it/~hkholidy/projects/cidd/)**
+  - Publisher: DARPA Intrusion Detection Evaluation Group of MIT Lincoln Laboratory
+  - Size: 70MB
+  - Machines: 45
+  - Duration: 7 weeks
+  - Collection Methodology: Real-world
+    
+- **ISCX  2016 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/8252132) | [Dataset](https://www.unb.ca/cic/datasets/index.html)**
+  - Publisher: Canadian Institute for Cybersecurity
+  - Size: 26.3MB
+  - Machines: -
+  - Duration: 1 year
+  - Collection Methodology: Real-world
+        
+- **Amazon Resource Cost  2012 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/2479871.2479908) | [Dataset](https://research.cs.queensu.ca/home/mian/index_files/Page485.htm)**
+  - Publisher: Queen's University
+  - Size: 87.1KB
+  - Machines: -
+  - Duration: 4 days
+  - Collection Methodology: Real-world
+    
+- **Amazon Resource Cost  1998 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/2479871.2479908) | [Dataset](https://kdd.ics.uci.edu/databases/kddcup99/kddcup99)**
+  - Publisher: MIT Lincoln Labs
+  - Size: 1.31MB
+  - Machines: -
+  - Duration: -
+  - Collection Methodology: Real-world
