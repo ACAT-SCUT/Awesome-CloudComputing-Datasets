@@ -82,6 +82,13 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Machines: 1600
   - Duration: 5 years
   - Collection Methodology: Real-world
+ 
+- **SWIM Workload  2009, 2010 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/6005383) | [Dataset](https://github.com/SWIMProjectUCB/SWIM/wiki/Workloads-repository)**
+  - Publisher: Facebook
+  - Size: 2.14MB
+  - Machines: 3000
+  - Duration: 1 day
+  - Collection Methodology: Real-world
 ## VM Cluster Traces
 
 ## Web Traces
