@@ -285,8 +285,8 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Machines: -
   - Duration: -
   - Collection Methodology: Real-world
-    
- - **TPC-C  1992 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3514221.3526055) | [Dataset](https://www.tpc.org/tpcc/results/tpcc_result_detail5.asp?id=123092901)**
+  
+- **TPC-C  1992 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3514221.3526055) | [Dataset](https://www.tpc.org/tpcc/results/tpcc_result_detail5.asp?id=123092901)**
   - Publisher: TPC
   - Size: 153MB
   - Machines: -
