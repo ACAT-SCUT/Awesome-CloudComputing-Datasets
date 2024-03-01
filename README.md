@@ -131,6 +131,20 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Machines: -
   - Duration: 1 year
   - Collection Methodology: Real-world
+                       
+- **SPEC Cloud Iaas  2018 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/8758926) | [Dataset](https://www.spec.org/cloud_iaas2018/)**
+  - Publisher: SPEC
+  - Size: -
+  - Machines: -
+  - Duration: 1 year
+  - Collection Methodology: Real-world
+                           
+- **SPEC power_ssj2008  2008 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S0167739X16306872) | [Dataset](https://www.spec.org/power_ssj2008/results/)**
+  - Publisher: SPEC
+  - Size: -
+  - Machines: -
+  - Duration: 1 year
+  - Collection Methodology: Real-world
 ## VM Cluster Traces
 
 ## Web Traces
