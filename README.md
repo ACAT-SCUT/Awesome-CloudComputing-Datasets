@@ -145,6 +145,34 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Machines: -
   - Duration: 1 year
   - Collection Methodology: Real-world
+                               
+- **GWA-T-1 DAS2  2005 | Yes | [Paper](https://link.springer.com/article/10.1007/s11227-023-05163-w) | [Dataset](http://gwa.ewi.tudelft.nl/datasets/gwa-t-1-das2)**
+  - Publisher: Delft University of Technology
+  - Size: 35MB
+  - Machines: 5
+  - Duration: -
+  - Collection Methodology: Real-world
+
+- **GWA-T-3 NorduGrid  2003 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S0167739X16306872) | [Dataset](http://gwa.ewi.tudelft.nl/datasets/gwa-t-3-nordugrid)**
+  - Publisher: Delft University of Technology
+  - Size: 20MB
+  - Machines: 75
+  - Duration: -
+  - Collection Methodology: Real-world
+    
+- **GWA-T-4 AuverGrid  2006 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1084804515001241) | [Dataset](http://gwa.ewi.tudelft.nl/datasets/gwa-t-4-auvergrid)**
+  - Publisher: Delft University of Technology
+  - Size: 13MB
+  - Machines: 5
+  - Duration: -
+  - Collection Methodology: Real-world
+        
+- **GWA-T-10 SHARCNet  2005 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1084804515001241) | [Dataset](http://gwa.ewi.tudelft.nl/datasets/gwa-t-10-sharcnet)**
+  - Publisher: Delft University of Technology
+  - Size: 33MB
+  - Machines: 10
+  - Duration: -
+  - Collection Methodology: Real-world
 ## VM Cluster Traces
 
 ## Web Traces
