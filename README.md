@@ -216,10 +216,24 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Duration: 1 year
   - Collection Methodology: Real-world
         
-- **Parallel Workloads Archive  2005 | Yes | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-77398-8_2) | [Dataset](https://www.cs.huji.ac.il/labs/parallel/workload/logs.html)**
+- **Parallel Workloads Archive  2005 | Yes | [Paper](https://link.springer.com/article/10.1007/s11227-023-05163-w) | [Dataset](https://www.cs.huji.ac.il/labs/parallel/workload/logs.html)**
   - Publisher: DG Feitelson
   - Size: -
   - Machines: -
   - Duration: -
+  - Collection Methodology: Real-world
+        
+- **Fruktus  2020 | Yes | [Paper](https://link.springer.com/article/10.1007/s10115-022-01721-5) | [Dataset](https://www.cs.huji.ac.il/labs/parallel/workload/logs.html)**
+  - Publisher: Piotr Nawrocki
+  - Size: 176KB
+  - Machines: -
+  - Duration: 11 months
+  - Collection Methodology: Real-world
+    
+- **OpenNebula Virtual Machine Profiling Dataset  2021 | Yes | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-77398-8_2) | [Dataset](https://ieee-dataport.org/documents/opennebula-virtual-machine-profiling-intrusion-detection-system#files)**
+  - Publisher: Prasad Purnaye
+  - Size: 2.6MB
+  - Machines: 6
+  - Duration: 63 hours
   - Collection Methodology: Real-world
 ## Web Traces
