@@ -35,17 +35,17 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Collection Methodology: Real-world
 
 - **Alibaba Cluster Trace V1  2017 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/10092039) | [Dataset](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-v2017)**
-  - Publisher: Google
+  - Publisher: Alibaba
   - Size: 232MB
   - Machines: 1300
   - Duration: 12 hours
   - Collection Methodology: Real-world
     
-- **Alibaba Cluster Trace V1  2017 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/10092039) | [Dataset](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-v2017)**
-  - Publisher: Google
-  - Size: 232MB
-  - Machines: 1300
-  - Duration: 12 hours
+- **Alibaba Cluster Trace V1  2018 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/10092039) | [Dataset](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-v2018)**
+  - Publisher: Alibaba
+  - Size: 98GB
+  - Machines: 4000
+  - Duration: 8 days
   - Collection Methodology: Real-world
 ## VM Cluster Traces
 
