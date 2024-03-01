@@ -258,3 +258,23 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Duration: 75 day
   - Collection Methodology: Real-world
 ## Web Traces
+- **Wikipedia Web Traces from WikiBench  2007 | No | [Paper](https://ieeexplore.ieee.org/abstract/document/9860236) | [Dataset](https://wikitech.wikimedia.org/wiki/Analytics/Archive/Data/Pagecounts-raw)**
+  - Publisher: Wikipedia
+  - Size: 5TB
+  - Machines: -
+  - Duration: 9 years
+  - Collection Methodology: Real-world
+
+- **NASA HTTP Traces  1995 | Yes | [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/dac.5634) | [Dataset](https://www.kaggle.com/datasets/adchatakora/nasa-http-access-logs/download?datasetVersionNumber=1)**
+  - Publisher: Wikipedia
+  - Size: 20.7MB
+  - Machines: -
+  - Duration: 1 month
+  - Collection Methodology: Real-world
+  
+- **TPC-H  1992 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3514221.3526055) | [Dataset](https://www.tpc.org/default5.asp)**
+  - Publisher: Wikipedia
+  - Size: 20.7MB
+  - Machines: -
+  - Duration: 1 month
+  - Collection Methodology: Real-world
