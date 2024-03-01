@@ -54,6 +54,20 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Machines: 1800
   - Duration: 2 months
   - Collection Methodology: Real-world
+
+- **Alibaba MicroServices Traces V1  2021 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3472883.3487003) | [Dataset](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-microservices-v2021)**
+  - Publisher: Alibaba
+  - Size: 61.1GB
+  - Machines: 10000
+  - Duration: 12 hours
+  - Collection Methodology: Real-world
+
+- **Alibaba MicroServices Traces V2  2022 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3472883.3487003) | [Dataset](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-microservices-v2022)**
+  - Publisher: Alibaba
+  - Size: 2TB
+  - Machines: 40000
+  - Duration: 13 days
+  - Collection Methodology: Real-world
 ## VM Cluster Traces
 
 ## Web Traces
