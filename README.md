@@ -89,6 +89,20 @@ The paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](http
   - Machines: 3000
   - Duration: 1 day
   - Collection Methodology: Real-world
+     
+- **Dionatrafk  2018 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/8671604) | [Dataset](https://github.com/dionatrafk/workload_prediction)**
+  - Publisher: Dionatr a F . Kirchoff
+  - Size: 321KB
+  - Machines: -
+  - Duration: 1 month
+  - Collection Methodology: Real-world
+   
+- **Autoscale Analyser  2015 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/6005383) | [Dataset](https://github.com/hsbhathiya/AutoscaleAnalyser/tree/master/datasets/cloud_traces)**
+  - Publisher: H.S. Bhathiya
+  - Size: 1.086MB
+  - Machines: 2
+  - Duration: 47 hours
+  - Collection Methodology: Real-world
 ## VM Cluster Traces
 
 ## Web Traces
