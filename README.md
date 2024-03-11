@@ -1,5 +1,5 @@
 ## NOTE:
-This work is developed by the Lab of Professor Weiwei Lin (linww@scut.edu.cn), School of Computer Science and Engineering, South China University of Technology.
+**This work is developed by the Lab of Professor Weiwei Lin (linww@scut.edu.cn), School of Computer Science and Engineering, South China University of Technology.**
 
 Authors:
 
