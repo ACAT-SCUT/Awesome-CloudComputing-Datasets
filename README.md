@@ -2,9 +2,13 @@
 This work is developed by the Lab of Professor Weiwei Lin (linww@scut.edu.cn), School of Computer Science and Engineering, South China University of Technology.
 
 Authors:
+
 Guozhi Liu email: csliuguozhi@mail.scut.edu.cn
+
 Shengsheng Lin email: linss2000@foxmail.com
+
 Xiaoxuan Luo email: 714197010@qq.com
+
 Jianpeng Lin email: csjianpenglin@mail.scut.edu.cn
 
 # Awesome-CloudComputing-Datasets
