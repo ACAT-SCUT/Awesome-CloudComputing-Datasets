@@ -12,7 +12,7 @@ Xiaoxuan Luo email: 714197010@qq.com
 Jianpeng Lin email: csjianpenglin@mail.scut.edu.cn
 
 # Awesome-CloudComputing-Datasets
-This resource is about paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](https://github.com/Lslland/Awesome-CloudComputing-Datasets)**
+<!-- This resource is about paper **["Public Datasets for Cloud Computing: A Comprehensive Survey"](https://github.com/Lslland/Awesome-CloudComputing-Datasets)** -->
 
 **Dataset information format：**
 
