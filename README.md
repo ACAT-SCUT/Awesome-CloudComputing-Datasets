@@ -16,7 +16,7 @@
 ```
 
 ## Host Cluster Traces
-- **Google Power Data  2024 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3373376.3378533) | [Dataset](https://github.com/google/cluster-data/blob/master/PowerData2019.md)**
+- **Google Power Data ($${\color{green}\text{\textbf{Power}}}$$)  2024 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3373376.3378533) | [Dataset](https://github.com/google/cluster-data/blob/master/PowerData2019.md)**
   - Publisher: Google
   - Size: 45.4KB
   - Machines: 57
@@ -51,7 +51,7 @@
   - Duration: 6 months
   - Collection Methodology: Real-world
     
-- **Marconi100  2020 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3528416.3530867) | [Dataset](https://zenodo.org/search?q=Datacenter&l=list&p=1&s=10&sort=bestmatch)**
+- **Marconi100 ($${\color{green}\text{\textbf{Power}}}$$) 2020 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3528416.3530867) | [Dataset](https://zenodo.org/search?q=Datacenter&l=list&p=1&s=10&sort=bestmatch)**
   - Publisher: Italian National Supercomputing Center
   - Size: 33.4GB
   - Machines: 960
@@ -65,7 +65,7 @@
   - Duration: 5 months
   - Collection Methodology: Real-world
 
-- **SURFsara  2019 | Yes | [Paper](https://arxiv.org/abs/2107.11832) | [Dataset](https://github.com/sara-nl/SURFace)**
+- **SURFsara ($${\color{green}\text{\textbf{Power}}}$$) 2019 | Yes | [Paper](https://arxiv.org/abs/2107.11832) | [Dataset](https://github.com/sara-nl/SURFace)**
   - Publisher: SURFsara
   - Size: 41.3GB
   - Machines: 5
