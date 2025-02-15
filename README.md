@@ -177,7 +177,7 @@
   - Duration: 1 day
   - Collection Methodology: Real-world
 
-- **SPEC power_ssj2008  2008 | No | [Paper](https://www.sciencedirect.com/science/article/pii/S0167739X16306872) | [Dataset](https://www.spec.org/power_ssj2008/results/)**
+- **SPEC power_ssj2008 ($${\color{green}\text{\textbf{Power}}}$$) 2008 | No | [Paper](https://www.sciencedirect.com/science/article/pii/S0167739X16306872) | [Dataset](https://www.spec.org/power_ssj2008/results/)**
   - Publisher: SPEC
   - Size: -
   - Machines: -
