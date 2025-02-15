@@ -16,6 +16,35 @@
 ```
 
 ## Host Cluster Traces
+- **Google Power Data  2024 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1877050920309820) | [Dataset](https://github.com/google/cluster-data/blob/master/TraceVersion1.md)**
+  - Publisher: Google
+  - Size: 45.4KB
+  - Machines: 57
+  - Duration: 1 month
+  - Collection Methodology: Real-world
+ 
+- **Azure LLM Inference Dataset  2024 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1877050920309820) | [Dataset](https://github.com/google/cluster-data/blob/master/TraceVersion1.md)**
+  - Publisher: Microsoft
+  - Size: 313KB or 702KB
+  - Machines: -
+  - Duration: 1 day or 9 days
+  - Collection Methodology: Real-world
+ 
+  - **Acme  2023 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1877050920309820) | [Dataset](https://github.com/google/cluster-data/blob/master/TraceVersion1.md)**
+  - Publisher: Google
+  - Size: 80GB
+  - Machines: 588
+  - Duration: 6 months
+  - Collection Methodology: Real-world
+ 
+  - **Alibaba GPU Traces  2020 | Yes | [Paper](https://www.usenix.org/conference/nsdi22/presentation/weng) | [Dataset](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2020)**
+  - Publisher: Alibaba
+  - Size: 1.36GB
+  - Machines: 1800
+  - Duration: 2 months
+  - Collection Methodology: Real-world
+
+
 - **Google Cluster Data V1  2009 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1877050920309820) | [Dataset](https://github.com/google/cluster-data/blob/master/TraceVersion1.md)**
   - Publisher: Google
   - Size: 29.8MB
@@ -51,12 +80,7 @@
   - Duration: 8 days
   - Collection Methodology: Real-world
 
-- **Alibaba GPU Traces  2020 | Yes | [Paper](https://www.usenix.org/conference/nsdi22/presentation/weng) | [Dataset](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2020)**
-  - Publisher: Alibaba
-  - Size: 1.36GB
-  - Machines: 1800
-  - Duration: 2 months
-  - Collection Methodology: Real-world
+
 
 - **Alibaba MicroServices Traces V1  2021 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3472883.3487003) | [Dataset](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-microservices-v2021)**
   - Publisher: Alibaba
