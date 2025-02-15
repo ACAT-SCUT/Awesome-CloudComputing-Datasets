@@ -212,7 +212,14 @@
   - Duration: -
   - Collection Methodology: Real-world
 
+- **Parallel Workloads Archive  2005 | Yes | [Paper](https://link.springer.com/article/10.1007/s11227-023-05163-w) | [Dataset](https://www.cs.huji.ac.il/labs/parallel/workload/logs.html)**
+  - Publisher: DG Feitelson
+  - Size: -
+  - Machines: -
+  - Duration: -
+  - Collection Methodology: Real-world             
 
+## VM Cluster Traces
 - **Alibaba MicroServices Traces V1  2021 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3472883.3487003) | [Dataset](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-microservices-v2021)**
   - Publisher: Alibaba
   - Size: 61.1GB
@@ -227,45 +234,53 @@
   - Duration: 13 days
   - Collection Methodology: Real-world
 
-
+- **CERIT-SC Workloads  2016 | Yes | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-77398-8_2) | [Dataset](https://jsspp.org/workload/index.php)**
+  - Publisher: Dalibor Klusacek
+  - Size: 11MB
+  - Machines: -
+  - Duration: 1 year
+  - Collection Methodology: Real-world
  
-
+- **OpenNebula Virtual Machine Profiling Dataset  2021 | Yes | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-77398-8_2) | [Dataset](https://ieee-dataport.org/documents/opennebula-virtual-machine-profiling-intrusion-detection-system#files)**
+  - Publisher: Prasad Purnaye
+  - Size: 2.6MB
+  - Machines: 6
+  - Duration: 63 hours
+  - Collection Methodology: Real-world
  
+- **Fruktus  2020 | Yes | [Paper](https://link.springer.com/article/10.1007/s10115-022-01721-5) | [Dataset](https://www.cs.huji.ac.il/labs/parallel/workload/logs.html)**
+  - Publisher: Piotr Nawrocki
+  - Size: 176KB
+  - Machines: -
+  - Duration: 11 months
+  - Collection Methodology: Real-world
+ 
+- **Chameleon Cloud traces  2017 | Yes | [Paper](https://www.researchgate.net/profile/Zhuangwei-Kang/publication/356981403_Chameleon_and_HTC_a_Match_Made_in_Heaven/links/6207d9eb634ff774f4c6c19d/Chameleon-and-HTC-a-Match-Made-in-Heaven.pdf) | [Dataset](https://www.scienceclouds.org/cloud-traces)**
+  - Publisher: Science Clouds
+  - Size: 1.5GB
+  - Machines: -
+  - Duration: 5 years
+  - Collection Methodology: Real-world
 
-     
-
-   
-
-       
-
-           
-
-               
-
-                   
-
-                       
-
-                           
-
-                               
-
-
-
-    
-
-        
-
-            
-
-                
-
-## VM Cluster Traces
 - **Azure Public Dataset  2017, 2019 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3477132.3483590) | [Dataset](https://github.com/Azure/AzurePublicDataset/tree/master)**
   - Publisher: Microsoft
   - Size: 117GB, 235GB
   - Machines: 2 million, 2.6 million
   - Duration: 30 days, 30 days
+  - Collection Methodology: Real-world
+ 
+- **Scout  2018 | Yes | [Paper](https://dl.acm.org/doi/abs/10.14778/3407790.3407845) | [Dataset](https://github.com/oxhead/scout)**
+  - Publisher: Hsu Chin-Jung
+  - Size: 587MB
+  - Machines: -
+  - Duration: 1 day
+  - Collection Methodology: Real-world
+ 
+- **IBM Docker Registry traces  2018 | Yes | [Paper](https://www.usenix.org/conference/fast18/presentation/anwar) | [Dataset](https://dssl.cs.vt.edu/drtp/)**
+  - Publisher: Ali Anwar
+  - Size: 1.5GB
+  - Machines: -
+  - Duration: 75 day
   - Collection Methodology: Real-world
 
 - **Business Critical Workloads  2015 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S131915782100094X) | [Dataset](http://gwa.ewi.tudelft.nl/datasets/Bitbrains)**
@@ -282,60 +297,40 @@
   - Duration: 10 days
   - Collection Methodology: Real-world
     
-- **CERIT-SC Workloads  2016 | Yes | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-77398-8_2) | [Dataset](https://jsspp.org/workload/index.php)**
-  - Publisher: Dalibor Klusacek
-  - Size: 11MB
+## Web Traces
+- **ISCX  2016 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/8252132) | [Dataset](https://www.unb.ca/cic/datasets/index.html)**
+  - Publisher: Canadian Institute for Cybersecurity
+  - Size: 26.3MB
   - Machines: -
   - Duration: 1 year
   - Collection Methodology: Real-world
-        
-- **Parallel Workloads Archive  2005 | Yes | [Paper](https://link.springer.com/article/10.1007/s11227-023-05163-w) | [Dataset](https://www.cs.huji.ac.il/labs/parallel/workload/logs.html)**
-  - Publisher: DG Feitelson
-  - Size: -
+ 
+- **Amazon Resource Cost  2012 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/2479871.2479908) | [Dataset](https://research.cs.queensu.ca/home/mian/index_files/Page485.htm)**
+  - Publisher: Queen's University
+  - Size: 87.1KB
   - Machines: -
-  - Duration: -
+  - Duration: 4 days
   - Collection Methodology: Real-world
-        
-- **Fruktus  2020 | Yes | [Paper](https://link.springer.com/article/10.1007/s10115-022-01721-5) | [Dataset](https://www.cs.huji.ac.il/labs/parallel/workload/logs.html)**
-  - Publisher: Piotr Nawrocki
-  - Size: 176KB
-  - Machines: -
-  - Duration: 11 months
+ 
+- **Cloud Intrusion Detection Dataset  2012 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3297663.3309676) | [Dataset](http://groups.di.unipi.it/~hkholidy/projects/cidd/)**
+  - Publisher: DARPA Intrusion Detection Evaluation Group of MIT Lincoln Laboratory
+  - Size: 70MB
+  - Machines: 45
+  - Duration: 7 weeks
   - Collection Methodology: Real-world
-    
-- **OpenNebula Virtual Machine Profiling Dataset  2021 | Yes | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-77398-8_2) | [Dataset](https://ieee-dataport.org/documents/opennebula-virtual-machine-profiling-intrusion-detection-system#files)**
-  - Publisher: Prasad Purnaye
-  - Size: 2.6MB
-  - Machines: 6
-  - Duration: 63 hours
-  - Collection Methodology: Real-world
-    
-- **Scout  2018 | Yes | [Paper](https://dl.acm.org/doi/abs/10.14778/3407790.3407845) | [Dataset](https://github.com/oxhead/scout)**
-  - Publisher: Hsu Chin-Jung
-  - Size: 587MB
-  - Machines: -
-  - Duration: 1 day
-  - Collection Methodology: Real-world
-        
-- **Chameleon Cloud traces  2017 | Yes | [Paper](https://www.researchgate.net/profile/Zhuangwei-Kang/publication/356981403_Chameleon_and_HTC_a_Match_Made_in_Heaven/links/6207d9eb634ff774f4c6c19d/Chameleon-and-HTC-a-Match-Made-in-Heaven.pdf) | [Dataset](https://www.scienceclouds.org/cloud-traces)**
-  - Publisher: Science Clouds
-  - Size: 1.5GB
-  - Machines: -
-  - Duration: 5 years
-  - Collection Methodology: Real-world
-        
-- **IBM Docker Registry traces  2018 | Yes | [Paper](https://www.usenix.org/conference/fast18/presentation/anwar) | [Dataset](https://dssl.cs.vt.edu/drtp/)**
-  - Publisher: Ali Anwar
-  - Size: 1.5GB
-  - Machines: -
-  - Duration: 75 day
-  - Collection Methodology: Real-world
-## Web Traces
+
 - **Wikipedia Web Traces from WikiBench  2007 | No | [Paper](https://ieeexplore.ieee.org/abstract/document/9860236) | [Dataset](https://wikitech.wikimedia.org/wiki/Analytics/Archive/Data/Pagecounts-raw)**
   - Publisher: Wikipedia
   - Size: 5TB
   - Machines: -
   - Duration: 9 years
+  - Collection Methodology: Real-world
+
+- **KDD Cup 1999's Dataset  1998 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/2479871.2479908) | [Dataset](https://kdd.ics.uci.edu/databases/kddcup99/kddcup99)**
+  - Publisher: MIT Lincoln Labs
+  - Size: 1.31MB
+  - Machines: -
+  - Duration: -
   - Collection Methodology: Real-world
 
 - **NASA HTTP Traces  1995 | Yes | [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/dac.5634) | [Dataset](https://www.kaggle.com/datasets/adchatakora/nasa-http-access-logs/download?datasetVersionNumber=1)**
@@ -380,30 +375,10 @@
   - Duration: -
   - Collection Methodology: Real-world
     
-- **Cloud Intrusion Detection Dataset  2012 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3297663.3309676) | [Dataset](http://groups.di.unipi.it/~hkholidy/projects/cidd/)**
-  - Publisher: DARPA Intrusion Detection Evaluation Group of MIT Lincoln Laboratory
-  - Size: 70MB
-  - Machines: 45
-  - Duration: 7 weeks
-  - Collection Methodology: Real-world
+
     
-- **ISCX  2016 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/8252132) | [Dataset](https://www.unb.ca/cic/datasets/index.html)**
-  - Publisher: Canadian Institute for Cybersecurity
-  - Size: 26.3MB
-  - Machines: -
-  - Duration: 1 year
-  - Collection Methodology: Real-world
+
         
-- **Amazon Resource Cost  2012 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/2479871.2479908) | [Dataset](https://research.cs.queensu.ca/home/mian/index_files/Page485.htm)**
-  - Publisher: Queen's University
-  - Size: 87.1KB
-  - Machines: -
-  - Duration: 4 days
-  - Collection Methodology: Real-world
+
     
-- **Amazon Resource Cost  1998 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/2479871.2479908) | [Dataset](https://kdd.ics.uci.edu/databases/kddcup99/kddcup99)**
-  - Publisher: MIT Lincoln Labs
-  - Size: 1.31MB
-  - Machines: -
-  - Duration: -
-  - Collection Methodology: Real-world
+
