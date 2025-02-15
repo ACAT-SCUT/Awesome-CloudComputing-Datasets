@@ -340,7 +340,7 @@
   - Duration: 1 month
   - Collection Methodology: Real-world
   
-- **TPC-H  1992 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3514221.3526055) | [Dataset](https://www.tpc.org/tpch/results/tpch_result_detail5.asp?id=124021201)**
+<!-- - **TPC-H  1992 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3514221.3526055) | [Dataset](https://www.tpc.org/tpch/results/tpch_result_detail5.asp?id=124021201)**
   - Publisher: TPC
   - Size: 58.3MB
   - Machines: -
@@ -373,7 +373,7 @@
   - Size: 4.5MB
   - Machines: -
   - Duration: -
-  - Collection Methodology: Real-world
+  - Collection Methodology: Real-world -->
     
 
     
