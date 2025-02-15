@@ -14,7 +14,7 @@
   - Duration:
   - Collection Methodology:
 ```
-{\color{red}\text{\textbf{!!! Warning !!!}}}
+
 ## Host Cluster Traces
 - **Google Power Data  2024 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3373376.3378533) | [Dataset](https://github.com/google/cluster-data/blob/master/PowerData2019.md)**
   - Publisher: Google
@@ -30,21 +30,21 @@
   - Duration: 1 day or 9 days
   - Collection Methodology: Real-world
 
-- **Acme (\textcolor{red}{GPU}) 2023 | Yes | [Paper](https://www.usenix.org/conference/nsdi24/presentation/hu) | [Dataset](https://github.com/InternLM/AcmeTrace)**
+- **Acme ($${\color{red}\text{\textbf{GPU}}}$$) 2023 | Yes | [Paper](https://www.usenix.org/conference/nsdi24/presentation/hu) | [Dataset](https://github.com/InternLM/AcmeTrace)**
   - Publisher: Google
   - Size: 80GB
   - Machines: 588
   - Duration: 6 months
   - Collection Methodology: Real-world
  
-- **Alibaba GPU Traces (GPU) 2020 | Yes | [Paper](https://www.usenix.org/conference/nsdi22/presentation/weng) | [Dataset](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2020)**
+- **Alibaba GPU Traces ($${\color{red}\text{\textbf{GPU}}}$$) 2020 | Yes | [Paper](https://www.usenix.org/conference/nsdi22/presentation/weng) | [Dataset](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2020)**
   - Publisher: Alibaba
   - Size: 1.36GB
   - Machines: 1800
   - Duration: 2 months
   - Collection Methodology: Real-world
 
-- **Helios (GPU)  2020 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3458817.3476223) | [Dataset](https://github.com/S-Lab-System-Group/HeliosData)**
+- **Helios ($${\color{red}\text{\textbf{GPU}}}$$)  2020 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3458817.3476223) | [Dataset](https://github.com/S-Lab-System-Group/HeliosData)**
   - Publisher: SenseTime
   - Size: 343MB
   - Machines: 802
@@ -128,7 +128,7 @@
   - Duration: 5 years
   - Collection Methodology: Real-world
  
-- **Philly (GPU)  2017 | Yes | [Paper](https://www.usenix.org/conference/atc19/presentation/jeon) | [Dataset](https://github.com/msr-fiddle/philly-traces)**
+- **Philly ($${\color{red}\text{\textbf{GPU}}}$$)  2017 | Yes | [Paper](https://www.usenix.org/conference/atc19/presentation/jeon) | [Dataset](https://github.com/msr-fiddle/philly-traces)**
   - Publisher: Microsoft
   - Size: 6.6GB
   - Machines: 552
