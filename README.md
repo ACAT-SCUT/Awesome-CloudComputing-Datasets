@@ -14,7 +14,7 @@
   - Duration:
   - Collection Methodology:
 ```
-$${\color{red}\text{\textbf{!!! Warning !!!}}}$$
+{\color{red}\text{\textbf{!!! Warning !!!}}}
 ## Host Cluster Traces
 - **Google Power Data  2024 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3373376.3378533) | [Dataset](https://github.com/google/cluster-data/blob/master/PowerData2019.md)**
   - Publisher: Google
