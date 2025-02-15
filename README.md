@@ -23,14 +23,14 @@
   - Duration: 1 month
   - Collection Methodology: Real-world
  
-- **Azure LLM Inference Dataset ($${\color{purple}\text{\textbf{LLMs}}}$$) 2024 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/10609649) | [Dataset](https://github.com/Azure/AzurePublicDataset/blob/master/AzureLLMInferenceDataset2024.md)**
+- **Azure LLM Inference Dataset ($${\color{purple}\text{\textbf{LLMs Inference}}}$$) 2024 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/10609649) | [Dataset](https://github.com/Azure/AzurePublicDataset/blob/master/AzureLLMInferenceDataset2024.md)**
   - Publisher: Microsoft
   - Size: 313KB or 702KB
   - Machines: -
   - Duration: 1 day or 9 days
   - Collection Methodology: Real-world
 
-- **Acme ($${\color{red}\text{\textbf{GPU}}}$$， $${\color{purple}\text{\textbf{LLMs}}}$$) 2023 | Yes | [Paper](https://www.usenix.org/conference/nsdi24/presentation/hu) | [Dataset](https://github.com/InternLM/AcmeTrace)**
+- **Acme ($${\color{red}\text{\textbf{GPU}}}$$， $${\color{purple}\text{\textbf{LLMs Pretrain, Inference, and SFT}}}$$) 2023 | Yes | [Paper](https://www.usenix.org/conference/nsdi24/presentation/hu) | [Dataset](https://github.com/InternLM/AcmeTrace)**
   - Publisher: Google
   - Size: 80GB
   - Machines: 588
