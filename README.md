@@ -92,6 +92,13 @@
   - Machines: 96000
   - Duration: 1 month
   - Collection Methodology: Real-world
+ 
+- **SPEC Cloud Iaas  2018 | No | [Paper](https://ieeexplore.ieee.org/abstract/document/8758926) | [Dataset](https://www.spec.org/cloud_iaas2018/)**
+  - Publisher: SPEC
+  - Size: -
+  - Machines: -
+  - Duration: 1 year
+  - Collection Methodology: Real-world
 
 - **Alibaba Cluster Trace V1  2017 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/10092039) | [Dataset](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-v2017)**
   - Publisher: Alibaba
@@ -107,6 +114,103 @@
   - Duration: 8 days
   - Collection Methodology: Real-world
 
+- **Dionatrafk  2018 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/8671604) | [Dataset](https://github.com/dionatrafk/workload_prediction)**
+  - Publisher: Dionatr a F . Kirchoff
+  - Size: 321KB
+  - Machines: -
+  - Duration: 1 month
+  - Collection Methodology: Real-world
+
+- **ATLAS Cluster Traces  2011, 2018, 2016 | Yes | [Paper](https://www.usenix.org/system/files/login/articles/login_winter18_07_amvrosiadis.pdf) | [Dataset](https://ftp.pdl.cmu.edu/pub/datasets/ATLAS/)**
+  - Publisher: Carnegie Mellon University
+  - Size: 16.7MB
+  - Machines: 1600
+  - Duration: 5 years
+  - Collection Methodology: Real-world
+ 
+- **Philly  2017 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/8671604) | [Dataset](https://github.com/dionatrafk/workload_prediction)**
+  - Publisher: Microsoft
+  - Size: 6.6GB
+  - Machines: 552
+  - Duration: 3 months
+  - Collection Methodology: Real-world
+
+- **SPEC CPU  2006, 2017 | No | [Paper](https://ieeexplore.ieee.org/abstract/document/6809346) | [Dataset](https://www.spec.org/cpu2017/)**
+  - Publisher: SPEC
+  - Size: -
+  - Machines: -
+  - Duration: 1 year
+  - Collection Methodology: Real-world
+
+- **Autoscale Analyser  2015 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/7820029/) | [Dataset](https://github.com/hsbhathiya/AutoscaleAnalyser/tree/master/datasets/cloud_traces)**
+  - Publisher: H.S. Bhathiya
+  - Size: 1.086MB
+  - Machines: 2
+  - Duration: 47 hours
+  - Collection Methodology: Real-world
+ 
+- **Intel Netbatch logs  2012 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1568494619307215) | [Dataset](https://www.cs.huji.ac.il/labs/parallel/workload/l_intel_netbatch/index.html)**
+  - Publisher: Ohad Shai
+  - Size: 2.53GB
+  - Machines: -
+  - Duration: 1 month
+  - Collection Methodology: Real-world
+ 
+- **OpenCloud Hadoop Workload  2010 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3409772) | [Dataset](https://ftp.pdl.cmu.edu/pub/datasets/hla/dataset.html)**
+  - Publisher: Parallel Data Lab
+  - Size: -
+  - Machines: 64
+  - Duration: 20 months
+  - Collection Methodology: Real-world
+
+- **Yahoo Webscope Dataset  2010 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/7904276) | [Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&guccounter=1)**
+  - Publisher: Yahoo
+  - Size: 33KB
+  - Machines: -
+  - Duration: -
+  - Collection Methodology: Real-world
+ 
+- **SWIM Workload  2009, 2010 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/6005383) | [Dataset](https://github.com/SWIMProjectUCB/SWIM/wiki/Workloads-repository)**
+  - Publisher: Facebook
+  - Size: 2.14MB
+  - Machines: 3000
+  - Duration: 1 day
+  - Collection Methodology: Real-world
+
+- **SPEC power_ssj2008  2008 | No | [Paper](https://www.sciencedirect.com/science/article/pii/S0167739X16306872) | [Dataset](https://www.spec.org/power_ssj2008/results/)**
+  - Publisher: SPEC
+  - Size: -
+  - Machines: -
+  - Duration: 1 year
+  - Collection Methodology: Real-world
+
+- **GWA-T-4 AuverGrid  2006 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1084804515001241) | [Dataset](http://gwa.ewi.tudelft.nl/datasets/gwa-t-4-auvergrid)**
+  - Publisher: Delft University of Technology
+  - Size: 13MB
+  - Machines: 5
+  - Duration: -
+  - Collection Methodology: Real-world
+ 
+- **GWA-T-1 DAS2  2005 | Yes | [Paper](https://link.springer.com/article/10.1007/s11227-023-05163-w) | [Dataset](http://gwa.ewi.tudelft.nl/datasets/gwa-t-1-das2)**
+  - Publisher: Delft University of Technology
+  - Size: 35MB
+  - Machines: 5
+  - Duration: -
+  - Collection Methodology: Real-world
+
+- **GWA-T-10 SHARCNet  2005 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1084804515001241) | [Dataset](http://gwa.ewi.tudelft.nl/datasets/gwa-t-10-sharcnet)**
+  - Publisher: Delft University of Technology
+  - Size: 33MB
+  - Machines: 10
+  - Duration: -
+  - Collection Methodology: Real-world
+
+- **GWA-T-3 NorduGrid  2003 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S0167739X16306872) | [Dataset](http://gwa.ewi.tudelft.nl/datasets/gwa-t-3-nordugrid)**
+  - Publisher: Delft University of Technology
+  - Size: 20MB
+  - Machines: 75
+  - Duration: -
+  - Collection Methodology: Real-world
 
 
 - **Alibaba MicroServices Traces V1  2021 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3472883.3487003) | [Dataset](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-microservices-v2021)**
@@ -123,105 +227,35 @@
   - Duration: 13 days
   - Collection Methodology: Real-world
 
-- **OpenCloud Hadoop Workload  2010 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3409772) | [Dataset](https://ftp.pdl.cmu.edu/pub/datasets/hla/dataset.html)**
-  - Publisher: Parallel Data Lab
-  - Size: -
-  - Machines: 64
-  - Duration: 20 months
-  - Collection Methodology: Real-world
+
  
-- **ATLAS Cluster Traces  2011, 2018, 2016 | Yes | [Paper](https://www.usenix.org/system/files/login/articles/login_winter18_07_amvrosiadis.pdf) | [Dataset](https://ftp.pdl.cmu.edu/pub/datasets/ATLAS/)**
-  - Publisher: Carnegie Mellon University
-  - Size: 16.7MB
-  - Machines: 1600
-  - Duration: 5 years
-  - Collection Methodology: Real-world
+
  
-- **SWIM Workload  2009, 2010 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/6005383) | [Dataset](https://github.com/SWIMProjectUCB/SWIM/wiki/Workloads-repository)**
-  - Publisher: Facebook
-  - Size: 2.14MB
-  - Machines: 3000
-  - Duration: 1 day
-  - Collection Methodology: Real-world
+
      
-- **Dionatrafk  2018 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/8671604) | [Dataset](https://github.com/dionatrafk/workload_prediction)**
-  - Publisher: Dionatr a F . Kirchoff
-  - Size: 321KB
-  - Machines: -
-  - Duration: 1 month
-  - Collection Methodology: Real-world
+
    
-- **Autoscale Analyser  2015 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/7820029/) | [Dataset](https://github.com/hsbhathiya/AutoscaleAnalyser/tree/master/datasets/cloud_traces)**
-  - Publisher: H.S. Bhathiya
-  - Size: 1.086MB
-  - Machines: 2
-  - Duration: 47 hours
-  - Collection Methodology: Real-world
+
        
-- **Yahoo Webscope Dataset  2010 | Yes | [Paper](https://ieeexplore.ieee.org/abstract/document/7904276) | [Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&guccounter=1)**
-  - Publisher: Yahoo
-  - Size: 33KB
-  - Machines: -
-  - Duration: -
-  - Collection Methodology: Real-world
+
            
 
                
-- **Intel Netbatch logs  2012 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1568494619307215) | [Dataset](https://www.cs.huji.ac.il/labs/parallel/workload/l_intel_netbatch/index.html)**
-  - Publisher: Ohad Shai
-  - Size: 2.53GB
-  - Machines: -
-  - Duration: 1 month
-  - Collection Methodology: Real-world
-                   
-- **SPEC CPU  2006, 2017 | No | [Paper](https://ieeexplore.ieee.org/abstract/document/6809346) | [Dataset](https://www.spec.org/cpu2017/)**
-  - Publisher: SPEC
-  - Size: -
-  - Machines: -
-  - Duration: 1 year
-  - Collection Methodology: Real-world
-                       
-- **SPEC Cloud Iaas  2018 | No | [Paper](https://ieeexplore.ieee.org/abstract/document/8758926) | [Dataset](https://www.spec.org/cloud_iaas2018/)**
-  - Publisher: SPEC
-  - Size: -
-  - Machines: -
-  - Duration: 1 year
-  - Collection Methodology: Real-world
-                           
-- **SPEC power_ssj2008  2008 | No | [Paper](https://www.sciencedirect.com/science/article/pii/S0167739X16306872) | [Dataset](https://www.spec.org/power_ssj2008/results/)**
-  - Publisher: SPEC
-  - Size: -
-  - Machines: -
-  - Duration: 1 year
-  - Collection Methodology: Real-world
-                               
-- **GWA-T-1 DAS2  2005 | Yes | [Paper](https://link.springer.com/article/10.1007/s11227-023-05163-w) | [Dataset](http://gwa.ewi.tudelft.nl/datasets/gwa-t-1-das2)**
-  - Publisher: Delft University of Technology
-  - Size: 35MB
-  - Machines: 5
-  - Duration: -
-  - Collection Methodology: Real-world
 
-- **GWA-T-3 NorduGrid  2003 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S0167739X16306872) | [Dataset](http://gwa.ewi.tudelft.nl/datasets/gwa-t-3-nordugrid)**
-  - Publisher: Delft University of Technology
-  - Size: 20MB
-  - Machines: 75
-  - Duration: -
-  - Collection Methodology: Real-world
+                   
+
+                       
+
+                           
+
+                               
+
+
+
     
-- **GWA-T-4 AuverGrid  2006 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1084804515001241) | [Dataset](http://gwa.ewi.tudelft.nl/datasets/gwa-t-4-auvergrid)**
-  - Publisher: Delft University of Technology
-  - Size: 13MB
-  - Machines: 5
-  - Duration: -
-  - Collection Methodology: Real-world
+
         
-- **GWA-T-10 SHARCNet  2005 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1084804515001241) | [Dataset](http://gwa.ewi.tudelft.nl/datasets/gwa-t-10-sharcnet)**
-  - Publisher: Delft University of Technology
-  - Size: 33MB
-  - Machines: 10
-  - Duration: -
-  - Collection Methodology: Real-world
+
             
 
                 
