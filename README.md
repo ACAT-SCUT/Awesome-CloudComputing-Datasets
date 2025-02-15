@@ -30,20 +30,47 @@
   - Duration: 1 day or 9 days
   - Collection Methodology: Real-world
  
-  - **Acme  2023 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1877050920309820) | [Dataset](https://github.com/google/cluster-data/blob/master/TraceVersion1.md)**
+- **Acme  2023 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1877050920309820) | [Dataset](https://github.com/google/cluster-data/blob/master/TraceVersion1.md)**
   - Publisher: Google
   - Size: 80GB
   - Machines: 588
   - Duration: 6 months
   - Collection Methodology: Real-world
  
-  - **Alibaba GPU Traces  2020 | Yes | [Paper](https://www.usenix.org/conference/nsdi22/presentation/weng) | [Dataset](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2020)**
+- **Alibaba GPU Traces  2020 | Yes | [Paper](https://www.usenix.org/conference/nsdi22/presentation/weng) | [Dataset](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2020)**
   - Publisher: Alibaba
   - Size: 1.36GB
   - Machines: 1800
   - Duration: 2 months
   - Collection Methodology: Real-world
 
+- **Helios  2020 | Yes | [Paper](https://www.usenix.org/conference/nsdi22/presentation/weng) | [Dataset](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2020)**
+  - Publisher: SenseTime
+  - Size: 343MB
+  - Machines: 802
+  - Duration: 6 months
+  - Collection Methodology: Real-world
+    
+- **Marconi100  2020 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3528416.3530867) | [Dataset](https://zenodo.org/search?q=Datacenter&l=list&p=1&s=10&sort=bestmatch)**
+  - Publisher: Italian National Supercomputing Center
+  - Size: 33.4GB
+  - Machines: 960
+  - Duration: 9 months
+  - Collection Methodology: Real-world
+ 
+- **Stadia Cloud Gaming Dataset  2020 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S0140366422000810) | [Dataset](https://github.com/wn-upf/Stadia_cloud_gaming_dataset_2020)**
+  - Publisher: Marc Carrascosa
+  - Size: 153MB
+  - Machines: -
+  - Duration: 5 months
+  - Collection Methodology: Real-world
+
+- **SURFsara  2019 | Yes | [Paper](https://arxiv.org/abs/2107.11832) | [Dataset](https://github.com/sara-nl/SURFace)**
+  - Publisher: SURFsara
+  - Size: 41.3GB
+  - Machines: 5
+  - Duration: 8 months
+  - Collection Methodology: Real-world
 
 - **Google Cluster Data V1  2009 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1877050920309820) | [Dataset](https://github.com/google/cluster-data/blob/master/TraceVersion1.md)**
   - Publisher: Google
@@ -138,12 +165,7 @@
   - Duration: -
   - Collection Methodology: Real-world
            
-- **Stadia Cloud Gaming Dataset  2020 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S0140366422000810) | [Dataset](https://github.com/wn-upf/Stadia_cloud_gaming_dataset_2020)**
-  - Publisher: Marc Carrascosa
-  - Size: 153MB
-  - Machines: -
-  - Duration: 5 months
-  - Collection Methodology: Real-world
+
                
 - **Intel Netbatch logs  2012 | Yes | [Paper](https://www.sciencedirect.com/science/article/pii/S1568494619307215) | [Dataset](https://www.cs.huji.ac.il/labs/parallel/workload/l_intel_netbatch/index.html)**
   - Publisher: Ohad Shai
@@ -201,19 +223,9 @@
   - Duration: -
   - Collection Methodology: Real-world
             
-- **SURFsara  2019 | Yes | [Paper](https://arxiv.org/abs/2107.11832) | [Dataset](https://github.com/sara-nl/SURFace)**
-  - Publisher: SURFsara
-  - Size: 41.3GB
-  - Machines: 5
-  - Duration: 8 months
-  - Collection Methodology: Real-world
+
                 
-- **Marconi100  2020 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3528416.3530867) | [Dataset](https://zenodo.org/search?q=Datacenter&l=list&p=1&s=10&sort=bestmatch)**
-  - Publisher: Italian National Supercomputing Center
-  - Size: 33.4GB
-  - Machines: 960
-  - Duration: 9 months
-  - Collection Methodology: Real-world
+
 ## VM Cluster Traces
 - **Azure Public Dataset  2017, 2019 | Yes | [Paper](https://dl.acm.org/doi/abs/10.1145/3477132.3483590) | [Dataset](https://github.com/Azure/AzurePublicDataset/tree/master)**
   - Publisher: Microsoft
